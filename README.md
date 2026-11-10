@@ -4,6 +4,10 @@
 
 Kitty sits cleanly on your desktop and lets you hold **Caps Lock** to dictate anywhere, or highlight text and press **`F7` / `F8` / `F9`** to fix grammar, engineer AI prompts, or polish writing across any app.
 
+> [!TIP]
+> **Looking for the app files?** You're in the right place! Only `README.md` appears in the file list above because the installer and zip are hosted in **GitHub Releases** — not in the code folder.
+> Click a **direct download link below**, or click **Releases** in the **right-hand sidebar** of this page (on mobile, scroll down to **Releases**) → look under **Assets** on **`v1.0.0`**.
+
 ---
 
 ## Download (`v1.0.0`)
@@ -15,7 +19,7 @@ Choose the download that fits your setup — **most users should choose the Inst
 | **Option 1: Windows Installer *(Recommended)*** | [**KittySetup.exe**](https://github.com/Divyaraj94/kitty-releases/releases/latest/download/KittySetup.exe) | ~65 MB | **All regular Windows users.** Quick setup wizard, no admin password needed, Start Menu & optional Desktop/Startup icons, easy uninstall, and smooth future updates. |
 | **Option 2: Portable Zip *(Optional — No-Install)*** | [**Kitty-Portable.zip**](https://github.com/Divyaraj94/kitty-releases/releases/latest/download/Kitty-Portable.zip) | ~90 MB | **Locked-down PCs or no-install use.** Just unzip anywhere and double-click `Kitty.exe` without running an installer *(manual updates by re-extracting)*. |
 
-- **Browse All Releases & Release Notes:** [Releases Page](https://github.com/Divyaraj94/kitty-releases/releases)
+- **Or Open GitHub Releases Directly:** [**Latest Release (`v1.0.0` Assets)**](https://github.com/Divyaraj94/kitty-releases/releases/latest) *(also on the **right sidebar → Releases** of this page)* · [All Releases](https://github.com/Divyaraj94/kitty-releases/releases)
 - **System Requirements:** Windows 10 or Windows 11 (64-bit / x64), plus a working microphone for Voice Typing.
 
 ---
